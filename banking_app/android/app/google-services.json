@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349799434153",
+    "project_id": "bankingapp-loginpage",
+    "storage_bucket": "bankingapp-loginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349799434153:android:a703e617569603523ca6b8",
+        "android_client_info": {
+          "package_name": "com.example.banking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349799434153-e9asg58shkj8kguk201t4u6vgdje2t3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0FzYGS9Wj6ifcI16zQsaz3nOPxDNXXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349799434153-e9asg58shkj8kguk201t4u6vgdje2t3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
